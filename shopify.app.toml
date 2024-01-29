@@ -2,7 +2,7 @@
 
 client_id = "e48346c7114307e736262804109f71b0"
 name = "regional-upside-app"
-application_url = "https://blocking-ideas-intensity-baptist.trycloudflare.com"
+application_url = "https://alberta-reid-wishlist-possibilities.trycloudflare.com"
 embedded = true
 
 [build]
@@ -15,9 +15,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://blocking-ideas-intensity-baptist.trycloudflare.com/auth/callback",
-  "https://blocking-ideas-intensity-baptist.trycloudflare.com/auth/shopify/callback",
-  "https://blocking-ideas-intensity-baptist.trycloudflare.com/api/auth/callback"
+  "https://alberta-reid-wishlist-possibilities.trycloudflare.com/auth/callback",
+  "https://alberta-reid-wishlist-possibilities.trycloudflare.com/auth/shopify/callback",
+  "https://alberta-reid-wishlist-possibilities.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
